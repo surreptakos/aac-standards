@@ -5,17 +5,17 @@ Document Standard
 
 Company-wide editorial, correspondence, document layout, and controlled-writing standard
 
-| **VERSION 0.4 \| DRAFT FOR APPROVAL** |
-|---------------------------------------|
+| **VERSION 0.5 \| DRAFT FOR APPROVAL** |
+|---|
 
-| **Document number**   | AAC-WR-001                                    |
-|-----------------------|-----------------------------------------------|
-| **Document owner**    | General Manager                               |
-| **Approver**          | General Manager                               |
-| **Version**           | 0.4                                           |
-| **Status**            | Draft for Approval                            |
-| **Effective date**    | Upon approval                                 |
-| **Review cycle**      | Annual, or upon material change               |
+| **Document number** | AAC-WR-001 |
+|---|---|
+| **Document owner** | General Manager |
+| **Approver** | General Manager |
+| **Version** | 0.5 |
+| **Status** | Draft for Approval |
+| **Effective date** | Upon approval |
+| **Review cycle** | Annual, or upon material change |
 | **Primary reference** | The Gregg Reference Manual, 11th U.S. edition |
 
 **Control statement.** The approved electronic master is the controlled copy. Printed or locally saved copies are uncontrolled unless specifically marked and maintained as controlled copies.
@@ -24,18 +24,18 @@ Company-wide editorial, correspondence, document layout, and controlled-writing 
 
 **Approval**
 
-| **Role**        | **Name** | **Approval / Signature** | **Date** |
-|-----------------|----------|--------------------------|----------|
-| General Manager |          |                          |          |
+| **Role** | **Name** | **Approval / Signature** | **Date** |
+|---|---|---|---|
+| General Manager | | | |
 
 **Revision history**
 
-| **Version** | **Date**   | **Description**                                                            | **Approved by** |
-|-------------|------------|----------------------------------------------------------------------------|-----------------|
-| 0.1         | 2026-09-09 | Initial controlled draft for review and approval                           |                 |
-| 0.2         | 2026-09-09 | Editorial and layout refinements; see Appendix F.                          | Pending         |
-| 0.3         | 2026-09-09 | Performance-review exception in Part I; decision register updated.         | Pending         |
-| 0.4         | 2026-09-10 | Merged concurrent edits: Aptos/type scale, ordinals, and telephone format. | Pending         |
+| **Version** | **Date** | **Description** | **Approved by** |
+|---|---|---|---|
+| 0.1 | 2026-09-09 | Initial controlled draft for review and approval | |
+| 0.2 | 2026-09-09 | Editorial and layout refinements; see Appendix F. | Pending |
+| 0.3 | 2026-09-09 | Performance-review exception in Part I; decision register updated. | Pending |
+| 0.4 | 2026-09-10 | Merged concurrent edits: Aptos/type scale, ordinals, and telephone format. | Pending |
 
 # Contents
 
@@ -91,6 +91,8 @@ Contents lists the major parts and appendices. Use the Word Navigation Pane to r
 
 [Part XXIV - Editorial decision rule 34](#part-xxiv---editorial-decision-rule)
 
+Part XXV - Draft quality and AI tells
+
 [Appendix A - Writing and release checklist 35](#appendix-a---writing-and-release-checklist)
 
 [Appendix B - House format matrix 36](#appendix-b---house-format-matrix)
@@ -127,21 +129,21 @@ The goal is consistency, clarity, accuracy, and ease of use. A reader should be 
 
 When two standards conflict, apply them in this order:
 
-1.  Applicable law, regulation, code, court requirement, or government form.
+1. Applicable law, regulation, code, court requirement, or government form.
 
-2.  Executed contract or binding customer requirement.
+2. Executed contract or binding customer requirement.
 
-3.  Authority Having Jurisdiction requirement.
+3. Authority Having Jurisdiction requirement.
 
-4.  Manufacturer-required terminology, trademarks, model numbers, or technical nomenclature.
+4. Manufacturer-required terminology, trademarks, model numbers, or technical nomenclature.
 
-5.  Approved document-specific standards and templates, within their stated scope.
+5. Approved document-specific standards and templates, within their stated scope.
 
-6.  This standard.
+6. This standard.
 
-7.  The Gregg Reference Manual.
+7. The Gregg Reference Manual.
 
-8.  Merriam-Webster for U.S. spelling and word treatment.
+8. Merriam-Webster for U.S. spelling and word treatment.
 
 Do not change contract language, statutory language, quotations, manufacturer terminology, model numbers, or customer-mandated language solely to conform to this standard.
 
@@ -327,7 +329,7 @@ Correct: from 8 a.m. to 10 a.m.
 
 Correct: between Monday and Wednesday
 
-Avoid em dashes in routine company writing. Use a comma, colon, parentheses, or a separate sentence instead. A hyphen may replace an en dash in plain-text systems that do not support typographic characters.
+Treat the em dash as a rhythm crutch. Cut it by default and use a comma, colon, parentheses, or a separate sentence instead. In a longer narrative draft, a single em dash may remain where a comma, period, or parenthesis would read worse. Do not use em dashes in contracts, policies, proposals, scopes of work, or any document listed under Rule 13 as requiring formal treatment. A hyphen may replace an en dash in plain-text systems that do not support typographic characters.
 
 ## 24. Parentheses
 
@@ -925,11 +927,11 @@ Unless the controlled SOP system requires another structure, use: title, documen
 
 Use numbered steps. Write each primary step as an instruction and start with a verb whenever practical.
 
-1.  Open the customer record in Zoho CRM.
+1. Open the customer record in Zoho CRM.
 
-2.  Confirm the site address.
+2. Confirm the site address.
 
-3.  Attach the signed proposal.
+3. Attach the signed proposal.
 
 ## 133. One action per step
 
@@ -1039,19 +1041,97 @@ The matrix in Appendix B establishes the default formatting treatment for routin
 
 Use this decision sequence:
 
-1.  Determine whether another controlling document requires a treatment.
+1. Determine whether another controlling document requires a treatment.
 
-2.  Determine whether the organization, person, manufacturer, or customer has an official preferred form.
+2. Determine whether the organization, person, manufacturer, or customer has an official preferred form.
 
-3.  Apply this standard when it establishes a house treatment.
+3. Apply this standard when it establishes a house treatment.
 
-4.  Apply The Gregg Reference Manual when this standard is silent.
+4. Apply The Gregg Reference Manual when this standard is silent.
 
-5.  Apply Merriam-Webster for spelling or compound treatment when the issue remains unresolved.
+5. Apply Merriam-Webster for spelling or compound treatment when the issue remains unresolved.
 
-6.  Select the remaining alternative that communicates the meaning with the least ambiguity.
+6. Select the remaining alternative that communicates the meaning with the least ambiguity.
 
 Once the company makes a recurring editorial decision, add it to this standard through the controlled revision process rather than deciding the same question repeatedly.
+
+# Part XXV - Draft quality and AI tells
+
+## 153. Scope of this part
+
+This part applies to original AAC prose in any deliverable covered by Rule 1. It does not reach contract language, statutory language, quotations, manufacturer terminology, model numbers, or customer-mandated language, which Rule 2 protects.
+
+Apply this part in either of two ways. **Revise** rewrites the draft. **Audit** reports findings without changing the text: name the pattern, quote the line, state the fix. Use audit for specs, contracts, quoted wording, and anywhere a person keeps final say over the words.
+
+## 154. Preserve the writer's voice
+
+Make the minimum effective edit. Keep the writer's cadence, bluntness, humor, stated uncertainty, and useful digressions. This standard sets requirements; it does not impose one voice. Do not flatten distinctive drafts into a single house rhythm.
+
+## 155. Empty adverbs
+
+Extends Rule 10. Delete adverbs that add no information, including **really, just, literally, genuinely, honestly, simply,** and **actually** where the sentence carries the same meaning without them.
+
+Keep an adverb that carries emphasis, records uncertainty, or preserves spoken rhythm. This is not a prohibition on adverbs.
+
+Preferred: The panel failed the test.
+
+Avoid: The panel actually just completely failed the test.
+
+## 156. Faux-insight setups
+
+Do not open with a claim of hidden knowledge. Phrases such as **what nobody tells you, the part everyone misses,** and **here is the thing** promise an insight the sentence then fails to deliver. State the point.
+
+Preferred: Most maglock rejections come from missing AHJ approval, not from the hardware.
+
+Avoid: What nobody tells you about maglocks is that the approval matters more than the hardware.
+
+## 157. Colon-reveal drama
+
+Do not use a colon to stage a reveal. Rule 21 permits a colon after a complete statement introducing a list, explanation, or quotation. It does not license suspense.
+
+Preferred: The system relearns the schedule automatically.
+
+Avoid: The best part: it learns.
+
+## 158. Importance puffery
+
+Do not assert significance in place of stating it. Delete **marks a pivotal moment, stands as a testament, represents a significant step,** and similar. Give the fact and let the reader judge.
+
+## 159. Superficial -ing analysis
+
+Do not append a trailing participial clause that restates the sentence as commentary.
+
+Preferred: The team closed all 14 tickets within the SLA.
+
+Avoid: The team closed all 14 tickets within the SLA, highlighting the team's commitment to quality.
+
+## 160. Weasel attribution
+
+Extends Rule 8. Do not attribute a claim to an unnamed authority. **Experts agree, studies show, it is widely understood,** and **research suggests** are not sources. Name the source or cut the claim. Never invent a source.
+
+## 161. Synonym cycling
+
+Name one actor, system, or tool the same way throughout a document. Rotating synonyms to avoid repetition makes the reader check whether a new thing has been introduced. Rule 143 already governs model and part numbers; this rule extends the same discipline to people, roles, and systems.
+
+## 162. Fake-profound kickers and summary recaps
+
+Do not end on a manufactured resonance, and do not close by restating what the reader has already read. Rule 122 governs executive summaries, which belong at the front. End when the content ends.
+
+## 163. Interpretive metadiscourse
+
+Do not narrate the writing. Delete **the key point is, this distinction matters, it is worth noting,** and **what this means is.** If a point is the key point, state it first under Rule 5.
+
+## 164. Formulaic structures
+
+Avoid the constructions listed in Appendix H: binary contrasts, negative listing, dramatic fragmentation, rhetorical setups, false agency, and the narrator-from-a-distance voice. Rule 6 already requires a named actor; Appendix H covers the remaining patterns.
+
+## 165. Formatting slop
+
+Do not use emoji in headings, decorative bold inside a sentence, or a heading for every paragraph. Parts IX through XI govern headings, lists, and tables in AAC documents and control where they conflict.
+
+## 166. Draft quality check before release
+
+Before release, confirm the draft under Appendix A, then confirm this part: voice preserved, filler and empty adverbs cut, no manufactured insight, every attributed claim sourced, one name per actor, no kicker, no recap. A draft that fails any item returns to the writer.
 
 # Appendix A - Writing and release checklist
 
@@ -1123,14 +1203,14 @@ Once the company makes a recurring editorial decision, add it to this standard t
 
 Table B1. House format matrix
 
-| **Document type** | **Typography**                | **Page / alignment**                          | **Content treatment**                                                      | **Control / close**                                        |
-|-------------------|-------------------------------|-----------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|
-| Routine email     | Outlook approved company font | Left; no first-line indent                    | Purpose first; use paragraph spacing or one blank line, not both           | Approved company signature; closing optional internally    |
-| Formal letter     | Aptos 11 pt                   | 1-in margins; full block                      | Colon after salutation; comma after closing; keep signature block together | Approved letterhead; signature required                    |
-| Memorandum        | Aptos 11 pt                   | 1-in margins; full block                      | DATE / TO / FROM / SUBJECT; headings as needed                             | Page numbering after page 1                                |
-| Report            | Aptos 11 pt                   | 1-in margins; sentence-case internal headings | Executive summary and TOC when warranted                                   | Page X of Y; data date; table source notes when applicable |
-| SOP               | Aptos 11 pt                   | 1-in margins; numbered sections               | Numbered action steps; restart independent lists; assign roles             | Document no., version, owner, approval, revision history   |
-| Proposal / scope  | Approved proposal template    | Template controls                             | Specific actor, action, quantity, location                                 | Explicit assumptions, exclusions, and pricing treatment    |
+| **Document type** | **Typography** | **Page / alignment** | **Content treatment** | **Control / close** |
+|---|---|---|---|---|
+| Routine email | Outlook approved company font | Left; no first-line indent | Purpose first; use paragraph spacing or one blank line, not both | Approved company signature; closing optional internally |
+| Formal letter | Aptos 11 pt | 1-in margins; full block | Colon after salutation; comma after closing; keep signature block together | Approved letterhead; signature required |
+| Memorandum | Aptos 11 pt | 1-in margins; full block | DATE / TO / FROM / SUBJECT; headings as needed | Page numbering after page 1 |
+| Report | Aptos 11 pt | 1-in margins; sentence-case internal headings | Executive summary and TOC when warranted | Page X of Y; data date; table source notes when applicable |
+| SOP | Aptos 11 pt | 1-in margins; numbered sections | Numbered action steps; restart independent lists; assign roles | Document no., version, owner, approval, revision history |
+| Proposal / scope | Approved proposal template | Template controls | Specific actor, action, quantity, location | Explicit assumptions, exclusions, and pricing treatment |
 
 # Appendix C - Starter AAC terminology list
 
@@ -1152,30 +1232,30 @@ Add manufacturer, product, department, software, customer, and internal-process 
 
 Table D1. Editorial quick reference
 
-| **Topic**                      | **Use**                                              | **Avoid / use only when required**                           |
-|--------------------------------|------------------------------------------------------|--------------------------------------------------------------|
-| Sentence spacing               | one space after sentence-ending punctuation          | two spaces after sentences                                   |
-| Series                         | intrusion, access control, and video                 | intrusion, access control and video                          |
-| General numbers                | ten doors; 11 cameras                                | 10 doors in ordinary nontechnical prose                      |
-| Date                           | September 9, 2026                                    | September 9th, 2026                                          |
-| Month and year                 | September 2026                                       | September, 2026                                              |
-| Time                           | 8 a.m.; 8:30 a.m.                                    | 8:00 AM in formal prose                                      |
-| Time range                     | 8–10 a.m.; from 8 a.m. to 10 a.m.                    | from 8–10 a.m.                                               |
-| Money                          | $5; $5.50; $1.6 million                           | $5.00 when cents serve no purpose                           |
-| Percentage - prose             | 39 percent                                           | 39% in ordinary narrative prose                              |
-| Percentage - table / dashboard | 39%                                                  | 39 percent when compact comparison is the goal               |
-| Technical duration             | 5-year agreement; 2-hour test                        | five-year agreement when the number needs technical emphasis |
-| State in prose                 | Lake Zurich, Illinois                                | Lake Zurich, IL in narrative prose                           |
-| Postal address                 | Lake Zurich, IL 60047                                | Lake Zurich, Illinois 60047 when using USPS mailing style    |
-| Technology terms               | email; website; internet                             | e-mail; Web site                                             |
-| Word treatment                 | setup / set up; follow-up / follow up                | using one form for both noun and verb                        |
-| File name                      | Customer - Project - Document - 2026-09-09 - v2.docx | Proposal_FINAL_v2_updated.docx                               |
-| Internal headings              | Sentence case; no ending period                      | Title Case on Each Internal Heading                          |
-| Paragraph spacing              | Word: 1.08 line spacing; 6 pt after                  | Blank paragraphs added to paragraph-after spacing            |
-| Percentage points              | 17.8% to 20% = 2.2 percentage points                 | Calling that change 2.2%                                     |
-| Independent lists              | Restart at 1; use native numbering                   | Unintended continuation after copy/paste                     |
-| Ordinals                       | first through tenth; 11th and above                  | An undefined ordinal-number cutoff                           |
-| Telephone                      | 847-555-1234                                         | (847) 555-1234 in ordinary U.S. business material          |
+| **Topic** | **Use** | **Avoid / use only when required** |
+|---|---|---|
+| Sentence spacing | one space after sentence-ending punctuation | two spaces after sentences |
+| Series | intrusion, access control, and video | intrusion, access control and video |
+| General numbers | ten doors; 11 cameras | 10 doors in ordinary nontechnical prose |
+| Date | September 9, 2026 | September 9th, 2026 |
+| Month and year | September 2026 | September, 2026 |
+| Time | 8 a.m.; 8:30 a.m. | 8:00 AM in formal prose |
+| Time range | 8–10 a.m.; from 8 a.m. to 10 a.m. | from 8–10 a.m. |
+| Money | $5; $5.50; $1.6 million | $5.00 when cents serve no purpose |
+| Percentage - prose | 39 percent | 39% in ordinary narrative prose |
+| Percentage - table / dashboard | 39% | 39 percent when compact comparison is the goal |
+| Technical duration | 5-year agreement; 2-hour test | five-year agreement when the number needs technical emphasis |
+| State in prose | Lake Zurich, Illinois | Lake Zurich, IL in narrative prose |
+| Postal address | Lake Zurich, IL 60047 | Lake Zurich, Illinois 60047 when using USPS mailing style |
+| Technology terms | email; website; internet | e-mail; Web site |
+| Word treatment | setup / set up; follow-up / follow up | using one form for both noun and verb |
+| File name | Customer - Project - Document - 2026-09-09 - v2.docx | Proposal_FINAL_v2_updated.docx |
+| Internal headings | Sentence case; no ending period | Title Case on Each Internal Heading |
+| Paragraph spacing | Word: 1.08 line spacing; 6 pt after | Blank paragraphs added to paragraph-after spacing |
+| Percentage points | 17.8% to 20% = 2.2 percentage points | Calling that change 2.2% |
+| Independent lists | Restart at 1; use native numbering | Unintended continuation after copy/paste |
+| Ordinals | first through tenth; 11th and above | An undefined ordinal-number cutoff |
+| Telephone | 847-555-1234 | (847) 555-1234 in ordinary U.S. business material |
 
 # Appendix E - Word style definitions
 
@@ -1183,18 +1263,22 @@ Approved company templates may intentionally override these settings within thei
 
 Table E1. Word style definitions
 
-| **Style**            | **Typography** | **Paragraph treatment**                                                                 | **Use**                                          |
-|----------------------|----------------|-----------------------------------------------------------------------------------------|--------------------------------------------------|
-| Title                | Aptos 20 pt    | Bold; title case; 8 pt after                                                            | Primary document title                           |
-| Heading 1            | Aptos 14 pt    | Bold; sentence case; 12 pt before / 4 pt after; keep with next                          | Major parts; page break before in long standards |
-| Heading 2            | Aptos 12 pt    | Bold; sentence case; 12 pt before / 4 pt after; keep with next                          | Numbered rules and subsections                   |
-| Heading 3            | Aptos 11 pt    | Bold; sentence case; 9 pt before / 3 pt after; keep with next                           | Third-level subdivisions                         |
-| Normal               | Aptos 11 pt    | 1.08 line spacing; 0 pt before / 6 pt after; no first-line indent; widow/orphan control | Sustained prose                                  |
-| List Number / Bullet | Aptos 11 pt    | 0 pt before / 3 pt after; marker at 0.25 in; text at 0.5 in; hanging indent             | Native lists; restart independent sequences      |
-| Table text           | Aptos 10 pt    | Single spacing; cell padding; alignment by data type; repeat headers                    | Tables; never reduce below 9 pt to force a fit   |
-| Source / Note        | Aptos 9 pt     | Single spacing; 3 pt after                                                              | Source details below explanatory table notes     |
+| **Style** | **Typography** | **Paragraph treatment** | **Use** |
+|---|---|---|---|
+| Title | Aptos 20 pt | Bold; title case; 8 pt after | Primary document title |
+| Heading 1 | Aptos 14 pt | Bold; sentence case; 12 pt before / 4 pt after; keep with next | Major parts; page break before in long standards |
+| Heading 2 | Aptos 12 pt | Bold; sentence case; 12 pt before / 4 pt after; keep with next | Numbered rules and subsections |
+| Heading 3 | Aptos 11 pt | Bold; sentence case; 9 pt before / 3 pt after; keep with next | Third-level subdivisions |
+| Normal | Aptos 11 pt | 1.08 line spacing; 0 pt before / 6 pt after; no first-line indent; widow/orphan control | Sustained prose |
+| List Number / Bullet | Aptos 11 pt | 0 pt before / 3 pt after; marker at 0.25 in; text at 0.5 in; hanging indent | Native lists; restart independent sequences |
+| Table text | Aptos 10 pt | Single spacing; cell padding; alignment by data type; repeat headers | Tables; never reduce below 9 pt to force a fit |
+| Source / Note | Aptos 9 pt | Single spacing; 3 pt after | Source details below explanatory table notes |
 
 # Appendix F - Style governance
+
+Appendix G - Phrase register
+
+Appendix H - Structure register
 
 The General Manager, or another formally designated document-control owner, owns this standard. Revise the standard when the company adopts a recurring convention, a rule creates ambiguity, a technology or communication method changes, a controlling regulatory or technical standard changes, or the same unresolved editorial question appears repeatedly.
 
@@ -1208,23 +1292,361 @@ The register below records AAC choices and implementation rules. It does not cla
 
 Table F1. House decision register
 
-| **Rules**        | **House selection**                                                                               | **Basis and purpose**                                                                      | **Version** |
-|------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------|
-| 2; 3; 16; 37; 66 | Performance-review standards and layout control for reviews, audits, and related coaching emails. | Named Rule 2 exception. Cell rules remain cell-specific; higher authorities still control. | 0.3         |
-| 37; 82           | Sentence-case internal headings.                                                                  | Layout draft, Section 3; document titles retain title case.                                | 0.2         |
-| 77; B; E         | Aptos 11 pt; title 20 pt; tables 10 pt.                                                           | Concurrent draft, Rule 77 and Appendix E. Replaces the v0.2 Arial decision.                | 0.4         |
-| 11; 80           | 1.08 line spacing; 6 pt after; no duplicate blank paragraphs.                                     | Layout draft, Sections 1 and 2; exact settings are AAC implementation choices.             | 0.2         |
-| 85; 117          | Widow/orphan control and protected signature blocks.                                              | Layout draft, Sections 2 and 14. Verify every page.                                        | 0.2         |
-| 89–93            | Restart independent lists at 1; allow useful two-item lists.                                      | Layout draft, Section 4; its minimum item count is not adopted.                            | 0.2         |
-| 95–99            | Table titles, sources, units, aligned decimals, and readable fit.                                 | Layout draft, Section 16; retain distinct N/A, Unknown, and Unlogged states.               | 0.2         |
-| 148–149; A       | Two-pass review: content, then mechanics and layout.                                              | Layout draft, Section 19; trace source facts and inspect the full issued layout.           | 0.2         |
-| 22; 63           | Dictionary-led compounds and noun/verb pairs.                                                     | Layout draft, Section 9; preserve exact names and approved terminology.                    | 0.2         |
-| 47; D            | Distinguish percent from percentage points.                                                       | Layout draft, Section 5; retain the existing prose and table formats.                      | 0.2         |
-| 16; 23           | Keep the serial comma and en-dash range treatment.                                                | v0.1 retained. Review-cell punctuation exceptions do not apply company-wide.               | 0.1         |
-| 52; D            | Spell out first through tenth; use figures from 11th.                                             | Concurrent draft, Rule 52. Establishes a fixed house cutoff.                               | 0.4         |
-| 53; D            | U.S. telephone numbers use hyphens, without parentheses.                                          | Concurrent draft, Rule 53. Standardizes the displayed number.                              | 0.4         |
+| **Rules** | **House selection** | **Basis and purpose** | **Version** |
+|---|---|---|---|
+| 2; 3; 16; 37; 66 | Performance-review standards and layout control for reviews, audits, and related coaching emails. | Named Rule 2 exception. Cell rules remain cell-specific; higher authorities still control. | 0.3 |
+| 37; 82 | Sentence-case internal headings. | Layout draft, Section 3; document titles retain title case. | 0.2 |
+| 77; B; E | Aptos 11 pt; title 20 pt; tables 10 pt. | Concurrent draft, Rule 77 and Appendix E. Replaces the v0.2 Arial decision. | 0.4 |
+| 11; 80 | 1.08 line spacing; 6 pt after; no duplicate blank paragraphs. | Layout draft, Sections 1 and 2; exact settings are AAC implementation choices. | 0.2 |
+| 85; 117 | Widow/orphan control and protected signature blocks. | Layout draft, Sections 2 and 14. Verify every page. | 0.2 |
+| 89–93 | Restart independent lists at 1; allow useful two-item lists. | Layout draft, Section 4; its minimum item count is not adopted. | 0.2 |
+| 95–99 | Table titles, sources, units, aligned decimals, and readable fit. | Layout draft, Section 16; retain distinct N/A, Unknown, and Unlogged states. | 0.2 |
+| 148–149; A | Two-pass review: content, then mechanics and layout. | Layout draft, Section 19; trace source facts and inspect the full issued layout. | 0.2 |
+| 22; 63 | Dictionary-led compounds and noun/verb pairs. | Layout draft, Section 9; preserve exact names and approved terminology. | 0.2 |
+| 47; D | Distinguish percent from percentage points. | Layout draft, Section 5; retain the existing prose and table formats. | 0.2 |
+| 16; 23 | Keep the serial comma and en-dash range treatment. | v0.1 retained. Review-cell punctuation exceptions do not apply company-wide. | 0.1 |
+| 52; D | Spell out first through tenth; use figures from 11th. | Concurrent draft, Rule 52. Establishes a fixed house cutoff. | 0.4 |
+| 23 | Em dash cut by default; one rare exception allowed in longer narrative drafts; none in formal documents. | Amends the v0.1 hard avoidance to match Part XXV. Formal documents keep the hard rule. | 0.5 |
+| 153–166; G; H | Draft-quality and AI-tell rules adopted as a snapshot of stop-slop PR #66 (commit 8e2130b, unmerged). | Third-party proposal, MIT licensed. Re-verify against upstream when the PR merges or closes. | 0.5 |
+| 53; D | U.S. telephone numbers use hyphens, without parentheses. | Concurrent draft, Rule 53. Standardizes the displayed number. | 0.4 |
+
+# Appendix G - Phrase register
+
+Registers the phrase patterns Rules 155 through 163 prohibit. The register is a reference, not an exhaustive list; a phrase absent from it is still subject to the rule it offends. Source recorded in References.
+
+## G1. Throat-Clearing Openers
+
+Remove these announcement phrases. State the content directly.
+
+- "Here's the thing:"
+- "Here's what [X]"
+- "Here's this [X]"
+- "Here's that [X]"
+- "Here's why [X]"
+- "The uncomfortable truth is"
+- "It turns out"
+- "The real [X] is"
+- "Let me be clear"
+- "The truth is,"
+- "I'll say it again:"
+- "I'm going to be honest"
+- "Can we talk about"
+- "Here's what I find interesting"
+- "Here's the problem though"
+
+Any "here's what/this/that" construction is throat-clearing before the point. Cut it and state the point.
+
+## G2. Emphasis Crutches
+
+These add no meaning. Delete them.
+
+- "Full stop." / "Period."
+- "Let that sink in."
+- "This matters because"
+- "Make no mistake"
+- "Here's why that matters"
+
+## G3. Business Jargon
+
+Replace with plain language.
+
+| Avoid | Use instead |
+|---|---|
+| Navigate (challenges) | Handle, address |
+| Unpack (analysis) | Explain, examine |
+| Lean into | Accept, embrace |
+| Landscape (context) | Situation, field |
+| Game-changer | Significant, important |
+| Double down | Commit, increase |
+| Deep dive | Analysis, examination |
+| Take a step back | Reconsider |
+| Moving forward | Next, from now |
+| Circle back | Return to, revisit |
+| On the same page | Aligned, agreed |
+
+## G4. Faux-Insight Setups
+
+Phrases that announce a secret instead of making a claim. Cut the setup. State the content.
+
+- "What nobody tells you"
+- "What they don't tell you"
+- "The part everyone misses"
+- "Here's what most people miss"
+- "The missing piece is"
+- "Nobody talks about"
+
+## G5. Importance Puffery
+
+Announcing significance instead of naming the change.
+
+- "marks a pivotal moment"
+- "stands as a testament"
+- "underscores the importance"
+- "a shining example of"
+- "speaks volumes"
+- "a powerful reminder"
+- "represents a significant milestone"
+
+## G6. Weasel Attribution
+
+Borrowed authority with no named source. Name the source or cut the claim. Never invent a source to fill the gap.
+
+- "experts agree"
+- "studies show"
+- "research suggests"
+- "scientists say"
+- "observers note"
+- "industry leaders believe"
+- "data indicates" (with no named data)
+
+## G7. Interpretive Metadiscourse
+
+Wrappers that tell the reader how to read the next sentence. Delete the wrapper. Keep the sentence.
+
+- "the key point is"
+- "this distinction matters"
+- "what this means is"
+- "the takeaway is"
+- "it's important to understand"
+- "this is a crucial distinction"
+
+## G8. Adverbs
+
+Cut empty adverbs. -ly words, softeners, intensifiers, and hedges that add no meaning.
+
+Keep an adverb when it carries real emphasis, uncertainty, or spoken rhythm. "I almost shipped it" is not the same as "I shipped it." "She said it quietly" is not empty.
+
+Empty offenders:
+
+- "really"
+- "just"
+- "literally"
+- "genuinely"
+- "honestly"
+- "simply"
+- "actually"
+- "deeply"
+- "truly"
+- "fundamentally"
+- "inherently"
+- "inevitably"
+- "interestingly"
+- "importantly"
+- "crucially"
+
+Also cut these filler phrases:
+
+- "At its core"
+- "In today's [X]"
+- "It's worth noting"
+- "At the end of the day"
+- "When it comes to"
+- "In a world where"
+- "The reality is"
+
+## G9. Meta-Commentary
+
+Remove self-referential asides. The essay should move, not announce its own structure.
+
+- "Hint:"
+- "Plot twist:" / "Spoiler:"
+- "You already know this, but"
+- "But that's another post"
+- "X is a feature, not a bug"
+- "Dressed up as"
+- "The rest of this essay explains..."
+- "Let me walk you through..."
+- "In this section, we'll..."
+- "As we'll see..."
+- "I want to explore..."
+
+## G10. Performative Emphasis
+
+False intimacy or manufactured sincerity:
+
+- "creeps in"
+- "I promise"
+- "They exist, I promise"
+
+## G11. Vague Declaratives
+
+Sentences that announce importance without naming the specific thing. Kill these.
+
+- "The reasons are structural"
+- "The implications are significant"
+- "This is the deepest problem"
+- "The stakes are high"
+- "The consequences are real"
+
+If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
+
+# Appendix H - Structure register
+
+Registers the structural patterns Rules 156 through 165 prohibit. Read with Rule 6, which governs the named actor, and Parts IX through XI, which control document layout where they conflict.
+
+## H1. Binary Contrasts
+
+These create false drama. State the point directly.
+
+| Pattern | Problem |
+|---|---|
+| "Not because X. Because Y." / "Not because X, but because Y." | Telegraphed reversal |
+| "[X] isn't the problem. [Y] is." | Formulaic reframe |
+| "The answer isn't X. It's Y." | Predictable pivot |
+| "It feels like X. It's actually Y." | Setup/reveal cliche |
+| "The question isn't X. It's Y." | Rhetorical misdirection |
+| "Not X. But Y." / "not X, it's Y" / "isn't X, it's Y" | Mechanical contrast |
+| "It's not this. It's that." | Same formula, different words |
+| "stops being X and starts being Y" | False transformation arc |
+| "doesn't mean X, but actually Y" | Negation-then-assertion crutch |
+| "is about X but not Y" | False distinction |
+| "not just X but also Y" | Additive hedge |
+
+**Instead:** State Y directly. "The problem is Y." "Y matters here." Drop the negation entirely.
+
+## H2. Negative Listing
+
+Listing what something is *not* before revealing what it *is*. A rhetorical striptease.
+
+| Pattern | Problem |
+|---|---|
+| "Not a X... Not a Y... A Z." | Dramatic buildup through negation |
+| "It wasn't X. It wasn't Y. It was Z." | Same structure, past tense |
+
+**Instead:** State Z. The reader doesn't need the runway.
+
+## H3. Dramatic Fragmentation
+
+Sentence fragments for emphasis read as manufactured profundity.
+
+| Pattern | Problem |
+|---|---|
+| "[Noun]. That's it. That's the [thing]." | Performative simplicity |
+| "X. And Y. And Z." | Staccato drama |
+| "This unlocks something. [Word]." | Artificial revelation |
+
+**Instead:** Complete sentences. Trust content over presentation.
+
+## H4. Rhetorical Setups
+
+These announce insight rather than deliver it.
+
+| Pattern | Problem |
+|---|---|
+| "What if [reframe]?" | Socratic posturing |
+| "Here's what I mean:" | Redundant preview |
+| "Think about it:" | Condescending prompt |
+| "And that's okay." | Unnecessary permission |
+
+**Instead:** Make the point. Let readers draw conclusions.
+
+## H5. False Agency
+
+Giving inanimate things human verbs. Complaints don't "become" fixes. Bets don't "live or die." Decisions don't "emerge." A person does something to make those things happen. AI loves this because it avoids naming the actor.
+
+| Pattern | Problem |
+|---|---|
+| "a complaint becomes a fix" | The complaint did nothing. Someone fixed it. |
+| "a bet lives or dies in days" | Bets don't have lifespans. Someone kills the project or ships it. |
+| "the decision emerges" | Decisions don't emerge. Someone decides. |
+| "the culture shifts" | Cultures don't shift on their own. People change behavior. |
+| "the conversation moves toward" | Conversations don't move. Someone steers. |
+| "the data tells us" | Data sits there. Someone reads it and draws a conclusion. |
+| "the market rewards" | Markets don't reward. Buyers pay for things. |
+
+**Instead:** Name the human. "The team fixed it that week" beats "the complaint becomes a fix." If no specific person fits, use "you" to put the reader in the seat.
+
+## H6. Narrator-from-a-Distance
+
+Floating above the scene instead of putting the reader in it.
+
+| Pattern | Problem |
+|---|---|
+| "Nobody designed this." | Disembodied observation |
+| "This happens because..." | Lecturer voice |
+| "This is why..." | Same |
+| "People tend to..." | Armchair sociologist |
+
+**Instead:** Put the reader in the room. "You don't sit down one day and decide to..." beats "Nobody designed this."
+
+## H7. Sentence Starters to Avoid
+
+| Pattern | Fix |
+|---|---|
+| Sentences starting with What, When, Where, Which, Who, Why, How | Restructure. Lead with the subject or the verb. |
+| Paragraphs starting with "So" | Start with content |
+| Sentences starting with "Look," | Remove |
+
+Wh- openers become a crutch. "What makes this hard is..." becomes "The constraint is..." or better, name the specific constraint.
+
+## H8. Colon-Reveal Drama
+
+A label, a colon, a punchline. Manufactured reveal.
+
+| Pattern | Problem |
+|---|---|
+| "The best part: it learns." | Colon does the drama. The sentence should. |
+| "The kicker: [punchline]" | Same reveal, stock label. |
+| "The result: [punchline]" | Outcome announced, then restated. |
+| "The truth: [punchline]" | Throat-clearing with a colon. |
+
+**Instead:** One sentence. "It learns from the last run." Save colons for lists and clock times.
+
+## H9. Superficial -ing Analysis
+
+A trailing -ing clause that moralizes the sentence it follows.
+
+| Pattern | Problem |
+|---|---|
+| "highlighting the team's commitment" | The ship is the commitment. The clause is a caption. |
+| "underscoring the importance of" | Importance announced, not shown. |
+| "demonstrating a dedication to" | Same caption, new verb. |
+| "reflecting a broader trend" | Zooms out to nowhere. |
+| "paving the way for" | Fake causality. |
+
+**Instead:** End on the act. "The team shipped on Friday." If the clause names a real consequence, make it a second sentence with an actor.
+
+## H10. Synonym Cycling
+
+The same actor or tool renamed every sentence so the prose looks varied.
+
+| Pattern | Problem |
+|---|---|
+| scheduler / orchestrator / coordinator | One process, three names. The reader hunts for a second system. |
+| app / platform / solution / offering | Marketing thesaurus. |
+| users / individuals / folks / stakeholders | One group, four costumes. |
+
+**Instead:** Pick the name the writer used first, or the most specific one. Reuse it.
+
+## H11. Fake-Profound Kickers
+
+A summary-recap or oracle last line that restates the piece in loftier words.
+
+| Pattern | Problem |
+|---|---|
+| "And that changes everything." | Volume in place of a point. |
+| "That's the whole game." | Pull-quote ending. |
+| "Nothing else matters." | Fake stakes. |
+| Closing paragraph that restates each section | The reader just read those sections. |
+
+**Instead:** End on the last real point. If the draft already landed, stop.
+
+## H12. Formatting Slop
+
+Decoration that mimics structure.
+
+| Pattern | Problem |
+|---|---|
+| Emoji headings | "🚀 Launch Day" is a poster, not a heading. |
+| Decorative mid-sentence **bold** | Random stress. Emphasis belongs in the words. |
+| Tiny header spam | A heading every two sentences. No room to think. |
+| Horizontal rules as drama | Section breaks used as punchlines. |
+
+**Instead:** Plain headings, few of them. Bold a phrase when you would italicize it in print. Then check whether the sentence works without the bold.
 
 # References
+
+Stop Slop. Copyright (c) 2025 Hardik Pandya. MIT License. Parts XXV, G, and H adapt material from stop-slop pull request #66 (`shivanathd:cursor/edit-audit-voice-tells-f38b`, commit 8e2130b), which was open and unmerged when adopted on September 11, 2026. The MIT permission and copyright notice travel with that material. The Vercel `--docs` structural conventions bundled with the same skill were not adopted; Parts IX through XI govern AAC document layout.
 
 The Gregg Reference Manual, 11th U.S. edition. Designated primary reference for unresolved business-writing questions under Section 2. Use the manual itself, not a secondary digest, to verify a claim about its requirements.
 
